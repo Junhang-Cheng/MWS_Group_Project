@@ -1,4 +1,4 @@
-![](https://github.cs.adelaide.edu.au/Mobile-And-Wireless-Systems-2021/myguard-b/raw/master/Wiki/logo.png)  
+![](https://github.com/c321474/MWS_Group_Project/blob/main/Wiki/logo.png)  
 
 # MyGuard  
 
@@ -20,4 +20,4 @@
 * [Meeting 12](https://github.cs.adelaide.edu.au/Mobile-And-Wireless-Systems-2021/myguard-b/wiki/12-Meeting)
 
 ## Project poster
-![](https://github.cs.adelaide.edu.au/Mobile-And-Wireless-Systems-2021/myguard-b/blob/master/Wiki/poster.png)  
+![](https://github.com/c321474/MWS_Group_Project/blob/main/Wiki/poster.png)  
