@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="app.mws.my.guard.b" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <feature name="RestartApp">
+        <param name="android-package" value="org.apache.cordova.restartapp.RestartApp" />
+    </feature>
+    <feature name="Badge">
+        <param name="android-package" value="de.appplant.cordova.plugin.badge.Badge" />
+    </feature>
+    <feature name="SharedPreferences">
+        <param name="android-package" value="com.adrianodigiovanni.sharedpreferences.CDVSharedPreferences" />
+    </feature>
+    <feature name="Device">
+        <param name="android-package" value="org.apache.cordova.device.Device" />
+    </feature>
+    <feature name="LocalNotification">
+        <param name="android-package" value="de.appplant.cordova.plugin.localnotification.LocalNotification" />
+    </feature>
+    <feature name="QRScanner">
+        <param name="android-package" value="com.bitpay.cordova.qrscanner.QRScanner" />
+    </feature>
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="BLEPeripheral">
+        <param name="android-package" value="com.megster.cordova.ble.peripheral.BLEPeripheralPlugin" />
+    </feature>
+    <name>MyGuard-B</name>
+    <description>
+        A app of an indoor surveillance system.
+    </description>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="*" />
+    <allow-navigation href="*" />
+    <icon background="www/img/logo.png" density="ldpi" foreground="www/img/logo.png" />
+    <icon background="www/img/logo.png" density="mdpi" foreground="www/img/logo.png" />
+    <icon background="www/img/logo.png" density="hdpi" foreground="www/img/logo.png" />
+    <icon background="www/img/logo.png" density="xhdpi" foreground="www/img/logo.png" />
+    <icon background="www/img/logo.png" density="xxhdpi" foreground="www/img/logo.png" />
+    <icon background="www/img/logo.png" density="xxxhdpi" foreground="www/img/logo.png" />
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="Fullscreen" value="true" />
+    <preference name="AndroidLaunchMode" value="singleTask" />
+    <preference name="LogLevel" value="DEBUG" />
+</widget>
